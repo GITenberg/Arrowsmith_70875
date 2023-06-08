@@ -1,0 +1,31 @@
+_repo: Arrowsmith_70875
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    alias: Lewis, Harry Sinclair
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: https://en.wikipedia.org/wiki/Sinclair_Lewis
+description: ''
+gutenberg_issued: '2023-05-28'
+identifiers:
+  gutenberg: '70875'
+language: en
+pgterms:marc904: https://archive.org/details/arrowsmith0000lewi_v2u9/page/24/mode/2up
+pgterms:marc905: 20210102105540lewis
+pgterms:marc906: '1925'
+pgterms:marc907: CA
+production_note: Emmanuel Ackerman, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aCanada :$bGeorge J. McLeod, Limited, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Arrowsmith
+url: http://www.gutenberg.org/ebooks/70875
